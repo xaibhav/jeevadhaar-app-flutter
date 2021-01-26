@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "946326432082",
+    "project_id": "jeevadhaarfire",
+    "storage_bucket": "jeevadhaarfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946326432082:android:4fc0d2ebc64ed7a5fbf28b",
+        "android_client_info": {
+          "package_name": "com.example.jeevadhaar_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946326432082-u7o1qlq32rvggtt7cvbo46nbpej7mes4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAihqqTsFcbZZHZuV4zJJbwK2onjjgOWjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946326432082-u7o1qlq32rvggtt7cvbo46nbpej7mes4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
