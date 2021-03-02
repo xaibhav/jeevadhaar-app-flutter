@@ -60,7 +60,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       );
                     },
                     child: Text(
-                      "LOGIN",
+                      "CONTINUE",
                       style: TextStyle(
                         fontSize: 30.0,
                         color: Colors.amber[600],
@@ -72,25 +72,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     ),
                     color: Colors.white,
                   ),
-                  MaterialButton(
-
-                    onPressed: () {},
-                    height: 80.0,
-                    elevation: 20.0,
-                    minWidth: 150.0,
-                    child: Text(
-                      "SIGNUP",
-                      style: TextStyle(
-                        fontSize: 30.0,
-                        color: Colors.red[600],
-                        fontWeight: FontWeight.w900,
-                      ),
-                    ),
-                    shape: RoundedRectangleBorder(
-                      borderRadius: BorderRadius.circular(38.0),
-                    ),
-                    color: Colors.white,
-                  )
+                
                 ],
               ),
             )
